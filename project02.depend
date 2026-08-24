@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1785011143 source:g:\c\cos1512\assignment2\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<cctype>
+	<cassert>
+
